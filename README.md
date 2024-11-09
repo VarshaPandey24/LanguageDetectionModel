@@ -7,6 +7,7 @@ facilitating better user experiences across languages.
 The dataset used in this project was sourced from Kaggle and includes text samples in various languages. Here are some details:
 
 Source: [Kaggle Dataset - Language Detection]
+
 Languages Covered: Includes 17 diffrent languages-
 Portuguese, French, Greek,Dutch,Spanish,Japanese,Russian, Danish,Italian,Turkish,Swedish, Arabic, Malayalam, Hindi,Tamil, Telugu
    
