@@ -1,0 +1,3 @@
+[submodule "language_detection"]
+	path = language_detection
+	url = https://huggingface.co/spaces/Varsha-123/language_detection
