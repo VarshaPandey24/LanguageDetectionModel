@@ -12,3 +12,8 @@ Languages Covered: Includes 17 diffrent languages-
 Portuguese, French, Greek,Dutch,Spanish,Japanese,Russian, Danish,Italian,Turkish,Swedish, Arabic, Malayalam, Hindi,Tamil, Telugu
    
   Format: The dataset is in CSV format, with each entry containing a 'TEXT' field and a 'Language' label.
+
+Project is deployed using Hugging Faces using gradio framework.
+Click on the link given in the repo description to check out the deployed version of the project.
+
+  
